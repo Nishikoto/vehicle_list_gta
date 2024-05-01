@@ -1,0 +1,2188 @@
+[
+    {"model": "ADDER", "hash": -1216765807, "category": "Super"},
+    {"model": "AIRBUS", "hash": 1283517198, "category": "Service"},
+    {"model": "AIRTUG", "hash": 1560980623, "category": "Service"},
+    {"model": "AKULA", "hash": 1181327175, "category": "Helicopter"},
+    {"model": "AKUMA", "hash": 1672195559, "category": "Motorcycle"},
+    {"model": "ALPHA", "hash": 767087018, "category": "Sport"},
+    {"model": "ALPHAZ1", "hash": -1523619738, "category": "Plane"},
+    {"model": "AMBULANCE", "hash": 1171614426, "category": "Emergency"},
+    {"model": "ANNIHILATOR", "hash": 837858166, "category": "Helicopter"},
+    {"model": "APC", "hash": 562680400, "category": "Military"},
+    {"model": "ARDENT", "hash": 159274291, "category": "SportsClassic"},
+    {"model": "ARMYTANKER", "hash": -1207431159, "category": "Trailer"},
+    {"model": "ARMYTRAILER", "hash": -1476447243, "category": "Trailer"},
+    {"model": "ARMYTRAILER2", "hash": -1637149482, "category": "Trailer"},
+    {"model": "ASEA", "hash": -1809822327, "category": "Sedan"},
+    {"model": "ASEA2", "hash": -1807623979, "category": "Sedan"},
+    {"model": "ASTEROPE", "hash": -1903012613, "category": "Sedan"},
+    {"model": "AUTARCH", "hash": -313185164, "category": "Super"},
+    {"model": "AVARUS", "hash": -2115793025, "category": "Motorcycle"},
+    {"model": "AVENGER", "hash": -2118308144, "category": "Plane"},
+    {"model": "AVENGER2", "hash": 408970549, "category": "Plane"},
+    {"model": "BAGGER", "hash": -2140431165, "category": "Motorcycle"},
+    {"model": "BALETRAILER", "hash": -399841706, "category": "Trailer"},
+    {"model": "BALLER", "hash": -808831384, "category": "SUV"},
+    {"model": "BALLER2", "hash": 142944341, "category": "SUV"},
+    {"model": "BALLER3", "hash": 1878062887, "category": "SUV"},
+    {"model": "BALLER4", "hash": 634118882, "category": "SUV"},
+    {"model": "BALLER5", "hash": 470404958, "category": "SUV"},
+    {"model": "BALLER6", "hash": 666166960, "category": "SUV"},
+    {"model": "BANSHEE", "hash": -1041692462, "category": "Sport"},
+    {"model": "BANSHEE2", "hash": 633712403, "category": "Super"},
+    {"model": "BARRACKS", "hash": -823509173, "category": "Emergency"},
+    {"model": "BARRACKS2", "hash": 1074326203, "category": "Emergency"},
+    {"model": "BARRACKS3", "hash": 630371791, "category": "Emergency"},
+    {"model": "BARRAGE", "hash": -212993243, "category": "Military"},
+    {"model": "BATI", "hash": -114291515, "category": "Motorcycle"},
+    {"model": "BATI2", "hash": -891462355, "category": "Motorcycle"},
+    {"model": "ADDER", "hash": -1216765807, "category": "Super"},
+    {"model": "AIRBUS", "hash": 1283517198, "category": "Service"},
+    {"model": "AIRTUG", "hash": 1560980623, "category": "Service"},
+    {"model": "AKULA", "hash": 1181327175, "category": "Helicopter"},
+    {"model": "AKUMA", "hash": 1672195559, "category": "Motorcycle"},
+    {"model": "ALPHA", "hash": 767087018, "category": "Sport"},
+    {"model": "ALPHAZ1", "hash": -1523619738, "category": "Plane"},
+    {"model": "AMBULANCE", "hash": 1171614426, "category": "Emergency"},
+    {"model": "ANNIHILATOR", "hash": 837858166, "category": "Helicopter"},
+    {"model": "APC", "hash": 562680400, "category": "Military"},
+    {"model": "ARDENT", "hash": 159274291, "category": "SportsClassic"},
+    {"model": "ARMYTANKER", "hash": -1207431159, "category": "Trailer"},
+    {"model": "ARMYTRAILER", "hash": -1476447243, "category": "Trailer"},
+    {"model": "ARMYTRAILER2", "hash": -1637149482, "category": "Trailer"},
+    {"model": "ASEA", "hash": -1809822327, "category": "Sedan"},
+    {"model": "ASEA2", "hash": -1807623979, "category": "Sedan"},
+    {"model": "ASTEROPE", "hash": -1903012613, "category": "Sedan"},
+    {"model": "AUTARCH", "hash": -313185164, "category": "Super"},
+    {"model": "AVARUS", "hash": -2115793025, "category": "Motorcycle"},
+    {"model": "AVENGER", "hash": -2118308144, "category": "Plane"},
+    {"model": "AVENGER2", "hash": 408970549, "category": "Plane"},
+    {"model": "BAGGER", "hash": -2140431165, "category": "Motorcycle"},
+    {"model": "BALETRAILER", "hash": -399841706, "category": "Trailer"},
+    {"model": "BALLER", "hash": -808831384, "category": "SUV"},
+    {"model": "BALLER2", "hash": 142944341, "category": "SUV"},
+    {"model": "BALLER3", "hash": 1878062887, "category": "SUV"},
+    {"model": "BALLER4", "hash": 634118882, "category": "SUV"},
+    {"model": "BALLER5", "hash": 470404958, "category": "SUV"},
+    {"model": "BALLER6", "hash": 666166960, "category": "SUV"},
+    {"model": "BANSHEE", "hash": -1041692462, "category": "Sport"},
+    {"model": "BANSHEE2", "hash": 633712403, "category": "Super"},
+    {"model": "BARRACKS", "hash": -823509173, "category": "Emergency"},
+    {"model": "BARRACKS2", "hash": 1074326203, "category": "Emergency"},
+    {"model": "BARRACKS3", "hash": 630371791, "category": "Emergency"},
+    {"model": "BARRAGE", "hash": -212993243, "category": "Military"},
+    {"model": "BATI", "hash": -114291515, "category": "Motorcycle"},
+    {"model": "BATI2", "hash": -891462355, "category": "Motorcycle"},
+    {"model": "BENSON", "hash": 2053223216, "category": "Truck"},
+    {"model": "BESRA", "hash": 1824333165, "category": "Plane"},
+    {"model": "BESTIAGTS", "hash": 1274868363, "category": "Sport"},
+    {"model": "BF400", "hash": 86520421, "category": "Motorcycle"},
+    {"model": "BFINJECTION", "hash": 1126868326, "category": "Offroad"},
+    {"model": "BIFF", "hash": 850991848, "category": "Truck"},
+    {"model": "BIFTA", "hash": -349601129, "category": "Offroad"},
+    {"model": "BISON", "hash": -16948145, "category": "Pickup"},
+    {"model": "BISON2", "hash": 2072156101, "category": "Pickup"},
+    {"model": "BISON3", "hash": 1739845664, "category": "Pickup"},
+    {"model": "BJXL", "hash": 850565707, "category": "SUV"},
+    {"model": "BLADE", "hash": -1205801634, "category": "Muscle"},
+    {"model": "BLAZER", "hash": -2128233223, "category": "Offroad"},
+    {"model": "BLAZER2", "hash": -48031959, "category": "Offroad"},
+    {"model": "BLAZER3", "hash": -1269889662, "category": "Offroad"},
+    {"model": "BLAZER4", "hash": -440768424, "category": "Offroad"},
+    {"model": "BLAZER5", "hash": -1590337689, "category": "Offroad"},
+    {"model": "BLIMP", "hash": -150975354, "category": "Helicopter"},
+    {"model": "BLIMP2", "hash": -613725916, "category": "Helicopter"},
+    {"model": "BLIMP3", "hash": -307958377, "category": "Plane"},
+    {"model": "BLISTA", "hash": -344943009, "category": "Compact"},
+    {"model": "BLISTA2", "hash": 1039032026, "category": "Sport"},
+    {"model": "BLISTA3", "hash": -591651781, "category": "Sport"},
+    {"model": "BMX", "hash": 1131912276, "category": "Bicycle"},
+    {"model": "BOATTRAILER", "hash": 524108981, "category": "Trailer"},
+    {"model": "BOBCATXL", "hash": 1069929536, "category": "Pickup"},
+    {"model": "BODHI2", "hash": -1435919434, "category": "Offroad"},
+    {"model": "BOMBUSHKA", "hash": -32878452, "category": "Plane"},
+    {"model": "BOXVILLE", "hash": -1987130134, "category": "Truck"},
+    {"model": "BOXVILLE2", "hash": -233098306, "category": "Truck"},
+    {"model": "BOXVILLE3", "hash": 121658888, "category": "Truck"},
+    {"model": "BOXVILLE4", "hash": 444171386, "category": "Truck"},
+    {"model": "BOXVILLE5", "hash": 682434785, "category": "Truck"},
+    {"model": "BRAWLER", "hash": -1479664699, "category": "Offroad"},
+    {"model": "BRICKADE", "hash": -305727417, "category": "Service"},
+    {"model": "BRIOSO", "hash": 1549126457, "category": "Compact"},
+    {"model": "BRUISER", "hash": 668439077, "category": "Offroad"},
+    {"model": "BRUISER2", "hash": -1694081890, "category": "Offroad"},
+    {"model": "BRUISER3", "hash": -2042350822, "category": "Offroad"},
+    {"model": "BRUTUS", "hash": 2139203625, "category": "Offroad"},
+    {"model": "BRUTUS2", "hash": -1890996696, "category": "Offroad"},
+    {"model": "BRUTUS3", "hash": 2038858402, "category": "Offroad"},
+    {"model": "BTYPE", "hash": 117401876, "category": "SportsClassic"},
+    {"model": "BTYPE2", "hash": -831834716, "category": "Muscle"},
+    {"model": "BTYPE3", "hash": -602287871, "category": "SportsClassic"},
+    {"model": "BUCCANEER", "hash": -682211828, "category": "Muscle"},
+    {"model": "BUCCANEER2", "hash": -1013450936, "category": "Muscle"},
+    {"model": "BUFFALO", "hash": -304802106, "category": "Sport"},
+    {"model": "BUFFALO2", "hash": 736902334, "category": "Sport"},
+    {"model": "BUFFALO3", "hash": 237764926, "category": "Sport"},
+    {"model": "BULLDOZER", "hash": 1886712733, "category": "Service"},
+    {"model": "BULLET", "hash": -1696146015, "category": "Super"},
+    {"model": "BURRITO", "hash": -1346687836, "category": "Van"},
+    {"model": "BURRITO2", "hash": -907477130, "category": "Van"},
+    {"model": "BURRITO3", "hash": -1743316013, "category": "Van"},
+    {"model": "BURRITO4", "hash": 893081117, "category": "Van"},
+    {"model": "BURRITO5", "hash": 1132262048, "category": "Van"},
+    {"model": "BUS", "hash": -713569950, "category": "Service"},
+    {"model": "BUZZARD", "hash": 788747387, "category": "Helicopter"},
+    {"model": "BUZZARD2", "hash": 745926877, "category": "Helicopter"},
+    {"model": "CABLECAR", "hash": -960289747, "category": "Service"},
+    {"model": "CADDY", "hash": 1147287684, "category": "Service"},
+    {"model": "CADDY2", "hash": -537896628, "category": "Service"},
+    {"model": "CADDY3", "hash": -769147461, "category": "Utility"},
+    {"model": "CAMPER", "hash": 1876516712, "category": "Van"},
+    {"model": "CARACARA", "hash": 1254014755, "category": "Offroad"},
+    {"model": "CARACARA2", "hash": -1349095620, "category": "Offroad"},
+    {"model": "CARBONIZZARE", "hash": 2072687711, "category": "Sport"},
+    {"model": "CARBONRS", "hash": 11251904, "category": "Motorcycle"},
+    {"model": "CARGOBOB", "hash": -50547061, "category": "Helicopter"},
+    {"model": "CARGOBOB2", "hash": 1621617168, "category": "Helicopter"},
+    {"model": "CARGOBOB3", "hash": 1394036463, "category": "Helicopter"},
+    {"model": "CARGOBOB4", "hash": 2025593404, "category": "Helicopter"},
+    {"model": "CARGOPLANE", "hash": 368211810, "category": "Plane"},
+    {"model": "CASCO", "hash": 941800958, "category": "SportsClassic"},
+    {"model": "CAVALCADE", "hash": 2006918058, "category": "SUV"},
+    {"model": "CAVALCADE2", "hash": -789894171, "category": "SUV"},
+    {"model": "CERBERUS", "hash": -801550069, "category": "Commercial"},
+    {"model": "CERBERUS2", "hash": 679453769, "category": "Commercial"},
+    {"model": "CERBERUS3", "hash": 1909700336, "category": "Commercial"},
+    {"model": "CHEBUREK", "hash": -988501280, "category": "SportsClassic"},
+    {"model": "CHEETAH", "hash": -1311154784, "category": "Super"},
+    {"model": "CHEETAH2", "hash": 223240013, "category": "SportsClassic"},
+    {"model": "CHERNOBOG", "hash": -692292317, "category": "Military"},
+    {"model": "CHIMERA", "hash": 6774487, "category": "Motorcycle"},
+    {"model": "CHINO", "hash": 349605904, "category": "Muscle"},
+    {"model": "CHINO2", "hash": -1361687965, "category": "Muscle"},
+    {"model": "CLIFFHANGER", "hash": 390201602, "category": "Motorcycle"},
+    {"model": "CLIQUE", "hash": -1566607184, "category": "Muscle"},
+    {"model": "COACH", "hash": -2072933068, "category": "Service"},
+    {"model": "COG55", "hash": 906642318, "category": "Sedan"},
+    {"model": "COG552", "hash": 704435172, "category": "Sedan"},
+    {"model": "COGCABRIO", "hash": 330661258, "category": "Coupe"},
+    {"model": "COGNOSCENTI", "hash": -2030171296, "category": "Sedan"},
+    {"model": "COGNOSCENTI2", "hash": -604842630, "category": "Sedan"},
+    {"model": "COMET2", "hash": -1045541610, "category": "Sport"},
+    {"model": "COMET3", "hash": -2022483795, "category": "Sport"},
+    {"model": "COMET4", "hash": 1561920505, "category": "Sport"},
+    {"model": "COMET5", "hash": 661493923, "category": "Sport"},
+    {"model": "CONTENDER", "hash": 683047626, "category": "Pickup"},
+    {"model": "COQUETTE", "hash": 108773431, "category": "Sport"},
+    {"model": "COQUETTE2", "hash": 1011753235, "category": "SportsClassic"},
+    {"model": "COQUETTE3", "hash": 784565758, "category": "SportsClassic"},
+    {"model": "CRUISER", "hash": 448402357, "category": "Bicycle"},
+    {"model": "CRUSADER", "hash": 321739290, "category": "Emergency"},
+    {"model": "CUBAN800", "hash": -644710429, "category": "Plane"},
+    {"model": "CUTTER", "hash": -1006919392, "category": "Truck"},
+    {"model": "CYCLONE", "hash": 1392481335, "category": "Super"},
+    {"model": "DAEMON", "hash": 2006142190, "category": "Motorcycle"},
+    {"model": "DAEMON2", "hash": -1404136503, "category": "Motorcycle"},
+    {"model": "DEATHBIKE", "hash": -27326686, "category": "Motorcycle"},
+    {"model": "DEATHBIKE2", "hash": -1812949672, "category": "Motorcycle"},
+    {"model": "DEATHBIKE3", "hash": -1374500452, "category": "Motorcycle"},
+    {"model": "DEFILER", "hash": 822018448, "category": "Motorcycle"},
+    {"model": "DELUXO", "hash": 1483171323, "category": "SportsClassic"},
+    {"model": "DEVESTE", "hash": 1591739866, "category": "Super"},
+    {"model": "DEVIANT", "hash": 1279262537, "category": "Muscle"},
+    {"model": "DIABLOUS", "hash": -239841468, "category": "Motorcycle"},
+    {"model": "DIABLOUS2", "hash": 1790834270, "category": "Motorcycle"},
+    {"model": "DILETTANTE", "hash": -1130810103, "category": "Compact"},
+    {"model": "DILETTANTE2", "hash": 1682114128, "category": "Compact"},
+    {"model": "DINGHY", "hash": 1033245328, "category": "Boat"},
+    {"model": "DINGHY2", "hash": 276773164, "category": "Boat"},
+    {"model": "DINGHY3", "hash": 509498602, "category": "Boat"},
+    {"model": "DINGHY4", "hash": 867467158, "category": "Boat"},
+    {"model": "DLOADER", "hash": 1770332643, "category": "Offroad"},
+    {"model": "DOCKTRAILER", "hash": -2140210194, "category": "Trailer"},
+    {"model": "DOCKTUG", "hash": -884690486, "category": "Truck"},
+    {"model": "DODO", "hash": -901163259, "category": "Plane"},
+    {"model": "DOMINATOR", "hash": 80636076, "category": "Muscle"},
+    {"model": "DOMINATOR2", "hash": -915704871, "category": "Muscle"},
+    {"model": "DOMINATOR3", "hash": -986944621, "category": "Muscle"},
+    {"model": "DOMINATOR4", "hash": -688189648, "category": "Muscle"},
+    {"model": "DOMINATOR5", "hash": -1375060657, "category": "Muscle"},
+    {"model": "DOMINATOR6", "hash": -1293924613, "category": "Muscle"},
+    {"model": "DOUBLE", "hash": -1670998136, "category": "Motorcycle"},
+    {"model": "DRAFTER", "hash": 686471183, "category": "Sport"},
+    {"model": "DUBSTA", "hash": 1177543287, "category": "SUV"},
+    {"model": "DUBSTA2", "hash": -394074634, "category": "SUV"},
+    {"model": "DUBSTA3", "hash": -1237253773, "category": "Offroad"},
+    {"model": "DUKES", "hash": 723973206, "category": "Muscle"},
+    {"model": "DUKES2", "hash": -326143852, "category": "Muscle"},
+    {"model": "DUMP", "hash": -2130482718, "category": "Truck"},
+    {"model": "DUNE", "hash": -1661854193, "category": "Offroad"},
+    {"model": "DUNE2", "hash": 534258863, "category": "Offroad"},
+    {"model": "DUNE3", "hash": 1897744184, "category": "Offroad"},
+    {"model": "DUNE4", "hash": -827162039, "category": "Offroad"},
+    {"model": "DUNE5", "hash": -312295511, "category": "Offroad"},
+    {"model": "DUSTER", "hash": 970356638, "category": "Plane"},
+    {"model": "DYNASTY", "hash": 310284501, "category": "SportsClassic"},
+    {"model": "ELEGY", "hash": 196747873, "category": "Sport"},
+    {"model": "ELEGY2", "hash": -566387422, "category": "Sport"},
+    {"model": "ELLIE", "hash": -1267543371, "category": "Muscle"},
+    {"model": "EMERUS", "hash": 1323778901, "category": "Super"},
+    {"model": "EMPEROR", "hash": -685276541, "category": "Sedan"},
+    {"model": "EMPEROR2", "hash": -1883002148, "category": "Sedan"},
+    {"model": "EMPEROR3", "hash": -1241712818, "category": "Sedan"},
+    {"model": "ENDURO", "hash": 1753414259, "category": "Motorcycle"},
+    {"model": "ENTITY2", "hash": -2120700196, "category": "Super"},
+    {"model": "ENTITYXF", "hash": -1291952903, "category": "Super"},
+    {"model": "ESSKEY", "hash": 2035069708, "category": "Motorcycle"},
+    {"model": "EXEMPLAR", "hash": -5153954, "category": "Coupe"},
+    {"model": "F620", "hash": -591610296, "category": "Coupe"},
+    {"model": "FACTION", "hash": -2119578145, "category": "Coupe"},
+    {"model": "FACTION2", "hash": -1790546981, "category": "Coupe"},
+    {"model": "FACTION3", "hash": -2039755226, "category": "Muscle"},
+    {"model": "FAGALOA", "hash": 1617472902, "category": "SportsClassic"},
+    {"model": "FAGGIO", "hash": -1842748181, "category": "Motorcycle"},
+    {"model": "FAGGIO2", "hash": 55628203, "category": "Motorcycle"},
+    {"model": "FAGGIO3", "hash": -1289178744, "category": "Motorcycle"},
+    {"model": "FAGGION", "hash": 2134395284, "category": "Motorcycle"},
+    {"model": "FBI", "hash": 1127131465, "category": "Emergency"},
+    {"model": "FBI2", "hash": -1647941228, "category": "Emergency"},
+    {"model": "FCR", "hash": 627535535, "category": "Motorcycle"},
+    {"model": "FCR2", "hash": -757735410, "category": "Motorcycle"},
+    {"model": "FELON", "hash": -391594584, "category": "Coupe"},
+    {"model": "FELON2", "hash": -89291282, "category": "Coupe"},
+    {"model": "FELTZER2", "hash": -1995326987, "category": "Sport"},
+    {"model": "FELTZER3", "hash": -1566741232, "category": "SportsClassic"},
+    {"model": "FIRETRUK", "hash": 1938952078, "category": "Emergency"},
+    {"model": "FIXTER", "hash": -836512833, "category": "Bicycle"},
+    {"model": "FLASHGT", "hash": -1259134696, "category": "Sport"},
+    {"model": "FLATBED", "hash": 1353720154, "category": "Truck"},
+    {"model": "FMJ", "hash": 1426219628, "category": "Super"},
+    {"model": "FORKLIFT", "hash": 1491375716, "category": "Service"},
+    {"model": "FQ2", "hash": -1137532101, "category": "SUV"},
+    {"model": "FREECRAWLER", "hash": -54332285, "category": "Offroad"},
+    {"model": "FREIGHT", "hash": 1030400667, "category": "Train"},
+    {"model": "FREIGHTCAR", "hash": 184361638, "category": "Train"},
+    {"model": "FREIGHTCONT1", "hash": 920453016, "category": "Train"},
+    {"model": "FREIGHTCONT2", "hash": 240201337, "category": "Train"},
+    {"model": "FREIGHTGRAIN", "hash": 642617954, "category": "Train"},
+    {"model": "FREIGHTTRAILER", "hash": -777275802, "category": "Trailer"},
+    {"model": "FROGGER", "hash": 744705981, "category": "Helicopter"},
+    {"model": "FROGGER2", "hash": 1949211328, "category": "Helicopter"},
+    {"model": "FUGITIVE", "hash": 1909141499, "category": "Sedan"},
+    {"model": "FUROREGT", "hash": -1089039904, "category": "Sport"},
+    {"model": "FUSILADE", "hash": 499169875, "category": "Sport"},
+    {"model": "FUTO", "hash": 2016857647, "category": "Sport"},
+    {"model": "GARGOYLE", "hash": 741090084, "category": "Motorcycle"},
+    {"model": "GAUNTLET", "hash": -1800170043, "category": "Muscle"},
+    {"model": "GAUNTLET2", "hash": 349315417, "category": "Muscle"},
+    {"model": "GAUNTLET3", "hash": 722226637, "category": "Muscle"},
+    {"model": "GAUNTLET4", "hash": 1934384720, "category": "Muscle"},
+    {"model": "GB200", "hash": 1909189272, "category": "Sport"},
+    {"model": "GBURRITO", "hash": -1745203402, "category": "Van"},
+    {"model": "GBURRITO2", "hash": 296357396, "category": "Van"},
+    {"model": "GLENDALE", "hash": 75131841, "category": "Sedan"},
+    {"model": "GP1", "hash": 1234311532, "category": "Super"},
+    {"model": "GRAINTRAILER", "hash": 1019737494, "category": "Trailer"},
+    {"model": "GRANGER", "hash": -1775728740, "category": "SUV"},
+    {"model": "GRESLEY", "hash": -1543762099, "category": "SUV"},
+    {"model": "GT500", "hash": -2079788230, "category": "SportsClassic"},
+    {"model": "GUARDIAN", "hash": -2107990196, "category": "Offroad"},
+    {"model": "HABANERO", "hash": 884422927, "category": "SUV"},
+    {"model": "HAKUCHOU", "hash": 1265391242, "category": "Motorcycle"},
+    {"model": "HAKUCHOU2", "hash": -255678177, "category": "Motorcycle"},
+    {"model": "HALFTRACK", "hash": -32236122, "category": "Military"},
+    {"model": "HANDLER", "hash": 444583674, "category": "Truck"},
+    {"model": "HAULER", "hash": 1518533038, "category": "Truck"},
+    {"model": "HAULER2", "hash": 387748548, "category": "Commercial"},
+    {"model": "HAVOK", "hash": -1984275979, "category": "Helicopter"},
+    {"model": "HELLION", "hash": -362150785, "category": "Offroad"},
+    {"model": "HERMES", "hash": 15219735, "category": "Muscle"},
+    {"model": "HEXER", "hash": 301427732, "category": "Motorcycle"},
+    {"model": "HOTKNIFE", "hash": 37348240, "category": "Muscle"},
+    {"model": "HOTRING", "hash": 1115909093, "category": "Sport"},
+    {"model": "HOWARD", "hash": -1007528109, "category": "Plane"},
+    {"model": "HUNTER", "hash": -42959138, "category": "Helicopter"},
+    {"model": "HUNTLEY", "hash": 486987393, "category": "SUV"},
+    {"model": "HUSTLER", "hash": 600450546, "category": "Muscle"},
+    {"model": "HYDRA", "hash": 970385471, "category": "Plane"},
+    {"model": "IMPALER", "hash": -2096690334, "category": "Muscle"},
+    {"model": "IMPALER2", "hash": 1009171724, "category": "Muscle"},
+    {"model": "IMPALER3", "hash": -1744505657, "category": "Muscle"},
+    {"model": "IMPERATOR", "hash": 444994115, "category": "Muscle"},
+    {"model": "IMPERATOR2", "hash": 1637620610, "category": "Muscle"},
+    {"model": "IMPERATOR3", "hash": -755532233, "category": "Muscle"},
+    {"model": "INFERNUS", "hash": 418536135, "category": "Super"},
+    {"model": "INFERNUS2", "hash": -1405937764, "category": "Sport"},
+    {"model": "INGOT", "hash": -1289722222, "category": "Sedan"},
+    {"model": "INNOVATION", "hash": -159126838, "category": "Motorcycle"},
+    {"model": "INSURGENT", "hash": -1860900134, "category": "Offroad"},
+    {"model": "INSURGENT2", "hash": 2071877360, "category": "Offroad"},
+    {"model": "INSURGENT3", "hash": -1924433270, "category": "Offroad"},
+    {"model": "INTRUDER", "hash": 886934177, "category": "Sedan"},
+    {"model": "ISSI2", "hash": -1177863319, "category": "Compact"},
+    {"model": "ISSI3", "hash": 931280609, "category": "Compact"},
+    {"model": "ISSI4", "hash": 628003514, "category": "Compact"},
+    {"model": "ISSI5", "hash": 1537277726, "category": "Compact"},
+    {"model": "ISSI6", "hash": 1239571361, "category": "Compact"},
+    {"model": "ISSI7", "hash": 1854776567, "category": "Sport"},
+    {"model": "ITALIGTB", "hash": -2048333973, "category": "Super"},
+    {"model": "ITALIGTB2", "hash": -482719877, "category": "Super"},
+    {"model": "ITALIGTO", "hash": -331467772, "category": "Sport"},
+    {"model": "JACKAL", "hash": -624529134, "category": "Coupe"},
+    {"model": "JB700", "hash": 1051415893, "category": "SportsClassic"},
+    {
+        "model": "JESTER",
+        "hash": -1106353882,
+        "category": "Sport"
+    },
+    {
+        "model": "JESTER3",
+        "hash": -214906006,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "JET",
+        "hash": 1058115860,
+        "category": "Plane"
+    },
+    {
+        "model": "JETMAX",
+        "hash": 861409633,
+        "category": "Boat"
+    },
+    {
+        "model": "JOURNEY",
+        "hash": -120287622,
+        "category": "Van"
+    },
+    {
+        "model": "KALAHARI",
+        "hash": 92612664,
+        "category": "Offroad"
+    },
+    {
+        "model": "KAMACHO",
+        "hash": -121446169,
+        "category": "Offroad"
+    },
+    {
+        "model": "KHAMELION",
+        "hash": 544021352,
+        "category": "Sport"
+    },
+    {
+        "model": "KHANJALI",
+        "hash": -1435527158,
+        "category": "Military"
+    },
+    {
+        "model": "KRIEGER",
+        "hash": -664141241,
+        "category": "Super"
+    },
+    {
+        "model": "KURUMA",
+        "hash": -1372848492,
+        "category": "Sport"
+    },
+    {
+        "model": "KURUMA2",
+        "hash": 410882957,
+        "category": "Sport"
+    },
+    {
+        "model": "LANDSTALKER",
+        "hash": 1269098716,
+        "category": "SUV"
+    },
+    {
+        "model": "LAZER",
+        "hash": -1281684762,
+        "category": "Plane"
+    },
+    {
+        "model": "LE7B",
+        "hash": -1232836011,
+        "category": "Super"
+    },
+    {
+        "model": "LECTRO",
+        "hash": 640818791,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "LGUARD",
+        "hash": 469291905,
+        "category": "Emergency"
+    },
+    {
+        "model": "LIMO2",
+        "hash": -114627507,
+        "category": "Sedan"
+    },
+    {
+        "model": "LOCUST",
+        "hash": -941272559,
+        "category": "Sport"
+    },
+    {
+        "model": "LURCHER",
+        "hash": 2068293287,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "LUXOR",
+        "hash": 621481054,
+        "category": "Plane"
+    },
+    {
+        "model": "LUXOR2",
+        "hash": -1214293858,
+        "category": "Plane"
+    },
+    {
+        "model": "LYNX",
+        "hash": 482197771,
+        "category": "Sport"
+    },
+    {
+        "model": "MAMBA",
+        "hash": -1660945322,
+        "category": "Sport"
+    },
+    {
+        "model": "MAMMATUS",
+        "hash": -1746576111,
+        "category": "Plane"
+    },
+    {
+        "model": "MANANA",
+        "hash": -2124201592,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "MANCHEZ",
+        "hash": -1523428744,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "MARQUIS",
+        "hash": -1043459709,
+        "category": "Boat"
+    },
+    {
+        "model": "MARSHALL",
+        "hash": 1233534620,
+        "category": "Offroad"
+    },
+    {
+        "model": "MASSACRO",
+        "hash": -142942670,
+        "category": "Sport"
+    },
+    {
+        "model": "MASSACRO2",
+        "hash": -631760477,
+        "category": "Sport"
+    },
+    {
+        "model": "MAVERICK",
+        "hash": -1660661558,
+        "category": "Helicopter"
+    },
+    {
+        "model": "MENACER",
+        "hash": 2044532910,
+        "category": "Offroad"
+    },
+    {
+        "model": "MESA",
+        "hash": 914654722,
+        "category": "SUV"
+    },
+    {
+        "model": "MESA2",
+        "hash": -748008636,
+        "category": "SUV"
+    },
+    {
+        "model": "MESA3",
+        "hash": -2064372143,
+        "category": "Offroad"
+    },
+    {
+        "model": "METROTRAIN",
+        "hash": 868868440,
+        "category": "Train"
+    },
+    {
+        "model": "MICHELLI",
+        "hash": 1046206681,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "MICROLIGHT",
+        "hash": -1763555241,
+        "category": "Plane"
+    },
+    {
+        "model": "MILJET",
+        "hash": 165154707,
+        "category": "Plane"
+    },
+    {
+        "model": "MINIVAN",
+        "hash": -310465116,
+        "category": "Van"
+    },
+    {
+        "model": "MINIVAN2",
+        "hash": -1126264336,
+        "category": "Muscle"
+    },
+    {
+        "model": "MIXER",
+        "hash": -784816453,
+        "category": "Truck"
+    },
+    {
+        "model": "MIXER2",
+        "hash": 475220373,
+        "category": "Truck"
+    },
+    {
+        "model": "MOGUL",
+        "hash": -749299473,
+        "category": "Plane"
+    },
+    {
+        "model": "MOLOTOK",
+        "hash": 1565978651,
+        "category": "Plane"
+    },
+    {
+        "model": "MONROE",
+        "hash": -433375717,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "MONSTER",
+        "hash": -845961253,
+        "category": "Offroad"
+    },
+    {
+        "model": "MONSTER3",
+        "hash": 1721676810,
+        "category": "Offroad"
+    },
+    {
+        "model": "MONSTER4",
+        "hash": 840387324,
+        "category": "Offroad"
+    },
+    {
+        "model": "MONSTER5",
+        "hash": -715746948,
+        "category": "Offroad"
+    },
+    {
+        "model": "MOONBEAM",
+        "hash": 525509695,
+        "category": "Van"
+    },
+    {
+        "model": "MOONBEAM2",
+        "hash": 1896491931,
+        "category": "Van"
+    },
+    {
+        "model": "MOWER",
+        "hash": 1783355638,
+        "category": "Service"
+    },
+    {
+        "model": "MULE",
+        "hash": 904750859,
+        "category": "Truck"
+    },
+    {
+        "model": "MULE2",
+        "hash": -1050465301,
+        "category": "Truck"
+    },
+    {
+        "model": "MULE3",
+        "hash": -2052737935,
+        "category": "Truck"
+    },
+    {
+        "model": "MULE4",
+        "hash": 1945374990,
+        "category": "Commercial"
+    },
+    {
+        "model": "NEBULA",
+        "hash": -882629065,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "NEMESIS",
+        "hash": -634879114,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "NEO",
+        "hash": -1620126302,
+        "category": "Sport"
+    },
+    {
+        "model": "NEON",
+        "hash": -1848994066,
+        "category": "Sport"
+    },
+    {
+        "model": "NERO",
+        "hash": 1034187331,
+        "category": "Super"
+    },
+    {
+        "model": "NERO2",
+        "hash": 1093792632,
+        "category": "Super"
+    },
+    {
+        "model": "NIGHTBLADE",
+        "hash": -1606187161,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "NIGHTSHADE",
+        "hash": -1943285540,
+        "category": "Muscle"
+    },
+    {
+        "model": "NIGHTSHARK",
+        "hash": 433954513,
+        "category": "Offroad"
+    },
+    {
+        "model": "NIMBUS",
+        "hash": -1295027632,
+        "category": "Plane"
+    },
+    {
+        "model": "NINEF",
+        "hash": 1032823388,
+        "category": "Sport"
+    },
+    {
+        "model": "NINEF2",
+        "hash": -1461482751,
+        "category": "Sport"
+    },
+    {
+        "model": "NOKOTA",
+        "hash": 1036591958,
+        "category": "Plane"
+    },
+    {
+        "model": "NOVAK",
+        "hash": -1829436850,
+        "category": "SUV"
+    },
+    {
+        "model": "OMNIS",
+        "hash": -777172681,
+        "category": "Sport"
+    },
+    {
+        "model": "OPPRESSOR",
+        "hash": 884483972,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "OPPRESSOR2",
+        "hash": 2069146067,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "ORACLE",
+        "hash": 1348744438,
+        "category": "Sedan"
+    },
+    {
+        "model": "ORACLE2",
+        "hash": -511601230,
+        "category": "Sedan"
+    },
+    {
+        "model": "OSIRIS",
+        "hash": 1987142870,
+        "category": "Super"
+    },
+    {
+        "model": "PACKER",
+        "hash": 569305213,
+        "category": "Truck"
+    },
+    {
+        "model": "PANTO",
+        "hash": -431692672,
+        "category": "Compact"
+    },
+    {
+        "model": "PARADISE",
+        "hash": 1488164764,
+        "category": "Van"
+    },
+    {
+        "model": "PARAGON",
+        "hash": -447711397,
+        "category": "Sport"
+    },
+    {
+        "model": "PARAGON2",
+        "hash": 1416466158,
+        "category": "Sport"
+    },
+    {
+        "model": "PARIAH",
+        "hash": 867799010,
+        "category": "Sport"
+    },
+    {
+        "model": "PATRIOT",
+        "hash": -808457413,
+        "category": "SUV"
+    },
+    {
+        "model": "PATRIOT2",
+        "hash": -420911112,
+        "category": "SUV"
+    },
+    {
+        "model": "PBUS",
+        "hash": -2007026063,
+        "category": "Emergency"
+    },
+    {
+        "model": "PBUS2",
+        "hash": 345756458,
+        "category": "Service"
+    },
+    {
+        "model": "PCJ",
+        "hash": -909201658,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "PENETRATOR",
+        "hash": -1758137366,
+        "category": "Super"
+    },
+    {
+        "model": "PENUMBRA",
+        "hash": -377465520,
+        "category": "Sport"
+    },
+    {
+        "model": "PEYOTE",
+        "hash": 1830407356,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "PEYOTE2",
+        "hash": -1804415708,
+        "category": "Muscle"
+    },
+    {
+        "model": "PFISTER811",
+        "hash": -1829802492,
+        "category": "Super"
+    },
+    {
+        "model": "PHANTOM",
+        "hash": -2137348917,
+        "category": "Truck"
+    },
+    {
+        "model": "PHANTOM2",
+        "hash": -1649536104,
+        "category": "Truck"
+    },
+    {
+        "model": "PHANTOM3",
+        "hash": 177270108,
+        "category": "Commercial"
+    },
+    {
+        "model": "PHOENIX",
+        "hash": -2095439403,
+        "category": "Muscle"
+    },
+    {
+        "model": "PICADOR",
+        "hash": 1507916787,
+        "category": "Muscle"
+    },
+    {
+        "model": "PIGALLE",
+        "hash": 1078682497,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "POLICE",
+        "hash": 2046537925,
+        "category": "Emergency"
+    },
+    {
+        "model": "POLICE2",
+        "hash": -1627000575,
+        "category": "Emergency"
+    },
+    {
+        "model": "POLICE3",
+        "hash": 1912215274,
+        "category": "Emergency"
+    },
+    {
+        "model": "POLICE4",
+        "hash": -1973172295,
+        "category": "Emergency"
+    },
+    {
+        "model": "POLICEB",
+        "hash": -34623805,
+        "category": "Emergency"
+    },
+    {
+        "model": "POLICEOLD1",
+        "hash": -1536924937,
+        "category": "Emergency"
+    },
+    {
+        "model": "POLICEOLD2",
+        "hash": -1779120616,
+        "category": "Emergency"
+    },
+    {
+        "model": "POLICET",
+        "hash": 456714581,
+        "category": "Emergency"
+    },
+    {
+        "model": "POLMAV",
+        "hash": 353883353,
+        "category": "Helicopter"
+    },
+    {
+        "model": "PONY",
+        "hash": -119658072,
+        "category": "Van"
+    },
+    {
+        "model": "PONY2",
+        "hash": 943752001,
+        "category": "Van"
+    },
+    {
+        "model": "POUNDER",
+        "hash": 2112052861,
+        "category": "Truck"
+    },
+    {
+        "model": "POUNDER2",
+        "hash": 1653666139,
+        "category": "Commercial"
+    },
+    {
+        "model": "PRAIRIE",
+        "hash": -1450650718,
+        "category": "Compact"
+    },
+    {
+        "model": "PRANGER",
+        "hash": 741586030,
+        "category": "Emergency"
+    },
+    {
+        "model": "PREDATOR",
+        "hash": -488123221,
+        "category": "Boat"
+    },
+    {
+        "model": "PREMIER",
+        "hash": -1883869285,
+        "category": "Sedan"
+    },
+    {
+        "model": "PRIMO",
+        "hash": -1150599089,
+        "category": "Sedan"
+    },
+    {
+        "model": "PRIMO2",
+        "hash": -2040426790,
+        "category": "Sedan"
+    },
+    {
+        "model": "PROPTRAILER",
+        "hash": 356391690,
+        "category": "Trailer"
+    },
+    {
+        "model": "PROTOTIPO",
+        "hash": 2123327359,
+        "category": "Super"
+    },
+    {
+        "model": "PYRO",
+        "hash": -1386191424,
+        "category": "Plane"
+    },
+    {
+        "model": "RADI",
+        "hash": -1651067813,
+        "category": "SUV"
+    },
+    {
+        "model": "RAIDEN",
+        "hash": -1529242755,
+        "category": "Sport"
+    },
+    {
+        "model": "RAKETRAILER",
+        "hash": 390902130,
+        "category": "Trailer"
+    },
+    {
+        "model": "RALLYTRUCK",
+        "hash": -2103821244,
+        "category": "Truck"
+    },
+    {
+        "model": "RANCHERXL",
+        "hash": 1645267888,
+        "category": "Offroad"
+    },
+    {
+        "model": "RANCHERXL2",
+        "hash": 1933662059,
+        "category": "Offroad"
+    },
+    {
+        "model": "RAPIDGT",
+        "hash": -1934452204,
+        "category": "Sport"
+    },
+    {
+        "model": "RAPIDGT2",
+        "hash": 1737773231,
+        "category": "Sport"
+    },
+    {
+        "model": "RAPIDGT3",
+        "hash": 2049897956,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "RAPTOR",
+        "hash": -674927303,
+        "category": "Sport"
+    },
+    {
+        "model": "RATBIKE",
+        "hash": 1873600305,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "RATLOADER",
+        "hash": -667151410,
+        "category": "Pickup"
+    },
+    {
+        "model": "RATLOADER2",
+        "hash": -589178377,
+        "category": "Pickup"
+    },
+    {
+        "model": "RCBANDITO",
+        "hash": -286046740,
+        "category": "Offroad"
+    },
+    {
+        "model": "REAPER",
+        "hash": 234062309,
+        "category": "Super"
+    },
+    {
+        "model": "REBEL",
+        "hash": -1207771834,
+        "category": "Offroad"
+    },
+    {
+        "model": "REBEL2",
+        "hash": -2045594037,
+        "category": "Offroad"
+    },
+    {
+        "model": "REGINA",
+        "hash": -14495224,
+        "category": "Sedan"
+    },
+    {
+        "model": "RENTALBUS",
+        "hash": -1098802077,
+        "category": "Service"
+    },
+    {
+        "model": "RETINUE",
+        "hash": 1841130506,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "REVOLTER",
+        "hash": -410205223,
+        "category": "Sport"
+    },
+    {
+        "model": "RHAPSODY",
+        "hash": 841808271,
+        "category": "Compact"
+    },
+    {
+        "model": "RHINO",
+        "hash": 782665360,
+        "category": "Emergency"
+    },
+    {
+        "model": "RIATA",
+        "hash": -1532697517,
+        "category": "Offroad"
+    },
+    {
+        "model": "RIOT",
+        "hash": -1205689942,
+        "category": "Emergency"
+    },
+    {
+        "model": "RIOT2",
+        "hash": -1693015116,
+        "category": "Emergency"
+    },
+    {
+        "model": "RIPLEY",
+        "hash": -845979911,
+        "category": "Service"
+    },
+    {
+        "model": "ROCOTO",
+        "hash": 2136773105,
+        "category": "SUV"
+    },
+    {
+        "model": "ROGUE",
+        "hash": -975345305,
+        "category": "Plane"
+    },
+    {
+        "model": "ROMERO",
+        "hash": 627094268,
+        "category": "Sedan"
+    },
+    {
+        "model": "RROCKET",
+        "hash": 916547552,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "RUBBLE",
+        "hash": -1705304628,
+        "category": "Truck"
+    },
+    {
+        "model": "RUFFIAN",
+        "hash": -893578776,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "RUINER",
+        "hash": -227741703,
+        "category": "Muscle"
+    },
+    {
+        "model": "RUINER2",
+        "hash": 941494461,
+        "category": "Sport"
+    },
+    {
+        "model": "RUINER3",
+        "hash": 777714999,
+        "category": "Sport"
+    },
+    {
+        "model": "RUMPO",
+        "hash": 1162065741,
+        "category": "Van"
+    },
+    {
+        "model": "RUMPO2",
+        "hash": -1776615689,
+        "category": "Van"
+    },
+    {
+        "model": "RUMPO3",
+        "hash": 1475773103,
+        "category": "Van"
+    },
+    {
+        "model": "RUSTON",
+        "hash": 719660200,
+        "category": "Sport"
+    },
+    {
+        "model": "S80",
+        "hash": -324618589,
+        "category": "Super"
+    },
+    {
+        "model": "SABREGT",
+        "hash": -1685021548,
+        "category": "Muscle"
+    },
+    {
+        "model": "SABREGT2",
+        "hash": 223258115,
+        "category": "Muscle"
+    },
+    {
+        "model": "SADLER",
+        "hash": -599568815,
+        "category": "Pickup"
+    },
+    {
+        "model": "SADLER2",
+        "hash": 734217681,
+        "category": "Pickup"
+    },
+    {
+        "model": "SANCHEZ",
+        "hash": 788045382,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "SANCHEZ2",
+        "hash": -1453280962,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "SANCTUS",
+        "hash": 1491277511,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "SANDKING",
+        "hash": -1189015600,
+        "category": "Offroad"
+    },
+    {
+        "model": "SANDKING2",
+        "hash": 989381445,
+        "category": "Offroad"
+    },
+    {
+        "model": "SAVAGE",
+        "hash": -82626025,
+        "category": "Helicopter"
+    },
+    {
+        "model": "SAVESTRA",
+        "hash": 903794909,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "SC1",
+        "hash": 1352136073,
+        "category": "Super"
+    },
+    {
+        "model": "SCARAB",
+        "hash": -1146969353,
+        "category": "Military"
+    },
+    {
+        "model": "SCARAB2",
+        "hash": 1542143200,
+        "category": "Military"
+    },
+    {
+        "model": "SCARAB3",
+        "hash": -579747861,
+        "category": "Military"
+    },
+    {
+        "model": "SCHAFTER2",
+        "hash": -1255452397,
+        "category": "Sedan"
+    },
+    {
+        "model": "SCHAFTER3",
+        "hash": -1485523546,
+        "category": "Sedan"
+    },
+    {
+        "model": "SCHAFTER4",
+        "hash": 1489967196,
+        "category": "Sedan"
+    },
+    {
+        "model": "SCHAFTER5",
+        "hash": -888242983,
+        "category": "Sedan"
+    },
+    {
+        "model": "SCHAFTER6",
+        "hash": 1922255844,
+        "category": "Sedan"
+    },
+    {
+        "model": "SCHLAGEN",
+        "hash": -507495760,
+        "category": "Sport"
+    },
+    {
+        "model": "SCHWARZER",
+        "hash": -746882698,
+        "category": "Sport"
+    },
+    {
+        "model": "SCORCHER",
+        "hash": -186537451,
+        "category": "Bicycle"
+    },
+    {
+        "model": "SCRAMJET",
+        "hash": -638562243,
+        "category": "Super"
+    },
+    {
+        "model": "SCRAP",
+        "hash": -1700801569,
+        "category": "Truck"
+    },
+    {
+        "model": "SEABREEZE",
+        "hash": -392675425,
+        "category": "Plane"
+    },
+    {
+        "model": "SEASHARK",
+        "hash": -1030275036,
+        "category": "Boat"
+    },
+    {
+        "model": "SEASHARK2",
+        "hash": -616331036,
+        "category": "Boat"
+    },
+    {
+        "model": "SEASHARK3",
+        "hash": -311022263,
+        "category": "Boat"
+    },
+    {
+        "model": "SEASPARROW",
+        "hash": -726768679,
+        "category": "Helicopter"
+    },
+    {
+        "model": "SEMINOLE",
+        "hash": 1221512915,
+        "category": "SUV"
+    },
+    {
+        "model": "SENTINEL",
+        "hash": 1349725314,
+        "category": "Coupe"
+    },
+    {
+        "model": "SENTINEL2",
+        "hash": 873639469,
+        "category": "Coupe"
+    },
+    {
+        "model": "SENTINEL3",
+        "hash": 1104234922,
+        "category": "Sport"
+    },
+    {
+        "model": "SERRANO",
+        "hash": 1337041428,
+        "category": "SUV"
+    },
+    {
+        "model": "SEVEN70",
+        "hash": -1757836725,
+        "category": "Sport"
+    },
+    {
+        "model": "SHAMAL",
+        "hash": -1214505995,
+        "category": "Plane"
+    },
+    {
+        "model": "SHEAVA",
+        "hash": 819197656,
+        "category": "Super"
+    },
+    {
+        "model": "SHERIFF",
+        "hash": -1683328900,
+        "category": "Emergency"
+    },
+    {
+        "model": "SHERIFF2",
+        "hash": 1922257928,
+        "category": "Emergency"
+    },
+    {
+        "model": "SHOTARO",
+        "hash": -405626514,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "SKYLIFT",
+        "hash": 1044954915,
+        "category": "Helicopter"
+    },
+    {
+        "model": "SLAMVAN",
+        "hash": 729783779,
+        "category": "Muscle"
+    },
+    {
+        "model": "SLAMVAN2",
+        "hash": 833469436,
+        "category": "Muscle"
+    },
+    {
+        "model": "SLAMVAN3",
+        "hash": 1119641113,
+        "category": "Muscle"
+    },
+    {
+        "model": "SLAMVAN4",
+        "hash": -2061049099,
+        "category": "Muscle"
+    },
+    {
+        "model": "SLAMVAN5",
+        "hash": 373261600,
+        "category": "Muscle"
+    },
+    {
+        "model": "SLAMVAN6",
+        "hash": 1742022738,
+        "category": "Muscle"
+    },
+    {
+        "model": "SOVEREIGN",
+        "hash": 743478836,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "SPECTER",
+        "hash": 1886268224,
+        "category": "Sport"
+    },
+    {
+        "model": "SPECTER2",
+        "hash": 1074745671,
+        "category": "Sport"
+    },
+    {
+        "model": "SPEEDER",
+        "hash": 231083307,
+        "category": "Boat"
+    },
+    {
+        "model": "SPEEDER2",
+        "hash": 437538602,
+        "category": "Boat"
+    },
+    {
+        "model": "SPEEDO",
+        "hash": -810318068,
+        "category": "Van"
+    },
+    {
+        "model": "SPEEDO2",
+        "hash": 728614474,
+        "category": "Van"
+    },
+    {
+        "model": "SPEEDO4",
+        "hash": 219613597,
+        "category": "Van"
+    },
+    {
+        "model": "SQUALO",
+        "hash": 400514754,
+        "category": "Boat"
+    },
+    {
+        "model": "STAFFORD",
+        "hash": 321186144,
+        "category": "Sedan"
+    },
+    {
+        "model": "STALION",
+        "hash": 1923400478,
+        "category": "Muscle"
+    },
+    {
+        "model": "STALION2",
+        "hash": -401643538,
+        "category": "Muscle"
+    },
+    {
+        "model": "STANIER",
+        "hash": -1477580979,
+        "category": "Sedan"
+    },
+    {
+        "model": "STARLING",
+        "hash": -1700874274,
+        "category": "Plane"
+    },
+    {
+        "model": "STINGER",
+        "hash": 1545842587,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "STINGERGT",
+        "hash": -2098947590,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "STOCKADE",
+        "hash": 1747439474,
+        "category": "Truck"
+    },
+    {
+        "model": "STOCKADE3",
+        "hash": -214455498,
+        "category": "Truck"
+    },
+    {
+        "model": "STRATUM",
+        "hash": 1723137093,
+        "category": "Sedan"
+    },
+    {
+        "model": "STREITER",
+        "hash": 1741861769,
+        "category": "Sport"
+    },
+    {
+        "model": "STRETCH",
+        "hash": -1961627517,
+        "category": "Sedan"
+    },
+    {
+        "model": "STRIKEFORCE",
+        "hash": 1692272545,
+        "category": "Plane"
+    },
+    {
+        "model": "STROMBERG",
+        "hash": 886810209,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "STUNT",
+        "hash": -2122757008,
+        "category": "Plane"
+    },
+    {
+        "model": "SUBMERSIBLE",
+        "hash": 771711535,
+        "category": "Boat"
+    },
+    {
+        "model": "SUBMERSIBLE2",
+        "hash": -1066334226,
+        "category": "Boat"
+    },
+    {
+        "model": "SULTAN",
+        "hash": 970598228,
+        "category": "Sport"
+    },
+    {
+        "model": "SULTANRS",
+        "hash": -295689028,
+        "category": "Super"
+    },
+    {
+        "model": "SUNTRAP",
+        "hash": -282946103,
+        "category": "Boat"
+    },
+    {
+        "model": "SUPERD",
+        "hash": 1123216662,
+        "category": "Sedan"
+    },
+    {
+        "model": "SUPERVOLITO",
+        "hash": 710198397,
+        "category": "Helicopter"
+    },
+    {
+        "model": "SUPERVOLITO2",
+        "hash": -1671539132,
+        "category": "Helicopter"
+    },
+    {
+        "model": "SURANO",
+        "hash": 384071873,
+        "category": "Sport"
+    },
+    {
+        "model": "SURFER",
+        "hash": 699456151,
+        "category": "Van"
+    },
+    {
+        "model": "SURFER2",
+        "hash": -1311240698,
+        "category": "Van"
+    },
+    {
+        "model": "SURGE",
+        "hash": -1894894188,
+        "category": "Sedan"
+    },
+    {
+        "model": "SWIFT",
+        "hash": -339587598,
+        "category": "Helicopter"
+    },
+    {
+        "model": "SWIFT2",
+        "hash": 1075432268,
+        "category": "Helicopter"
+    },
+    {
+        "model": "SWINGER",
+        "hash": 500482303,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "T20",
+        "hash": 1663218586,
+        "category": "Super"
+    },
+    {
+        "model": "TACO",
+        "hash": 1951180813,
+        "category": "Van"
+    },
+    {
+        "model": "TAILGATER",
+        "hash": -1008861746,
+        "category": "Sedan"
+    },
+    {
+        "model": "TAIPAN",
+        "hash": -1134706562,
+        "category": "Super"
+    },
+    {
+        "model": "TAMPA",
+        "hash": 972671128,
+        "category": "Muscle"
+    },
+    {
+        "model": "TAMPA2",
+        "hash": -1071380347,
+        "category": "Muscle"
+    },
+    {
+        "model": "TAMPA3",
+        "hash": -1210451983,
+        "category": "Muscle"
+    },
+    {
+        "model": "TANKER",
+        "hash": -730904777,
+        "category": "Trailer"
+    },
+    {
+        "model": "TANKER2",
+        "hash": 1956216962,
+        "category": "Trailer"
+    },
+    {
+        "model": "TANKERCAR",
+        "hash": 586013744,
+        "category": "Train"
+    },
+    {
+        "model": "TAXI",
+        "hash": -956048545,
+        "category": "Sedan"
+    },
+    {
+        "model": "TECHNICAL",
+        "hash": -2096818938,
+        "category": "Offroad"
+    },
+    {
+        "model": "TECHNICAL2",
+        "hash": 1180875963,
+        "category": "Offroad"
+    },
+    {
+        "model": "TECHNICAL3",
+        "hash": 1356124575,
+        "category": "Offroad"
+    },
+    {
+        "model": "TEMPESTA",
+        "hash": 272929391,
+        "category": "Super"
+    },
+    {
+        "model": "TERBYTE",
+        "hash": -1988428699,
+        "category": "Commercial"
+    },
+    {
+        "model": "TEZERACT",
+        "hash": 1031562256,
+        "category": "Super"
+    },
+    {
+        "model": "THRAX",
+        "hash": 1044193113,
+        "category": "Super"
+    },
+    {
+        "model": "THRUST",
+        "hash": 1836027715,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "THRUSTER",
+        "hash": 1489874736,
+        "category": "Military"
+    },
+    {
+        "model": "TIPTRUCK",
+        "hash": 48339065,
+        "category": "Truck"
+    },
+    {
+        "model": "TIPTRUCK2",
+        "hash": -947761570,
+        "category": "Truck"
+    },
+    {
+        "model": "TITAN",
+        "hash": 1981688531,
+        "category": "Plane"
+    },
+    {
+        "model": "TORERO",
+        "hash": 1504306544,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "TORNADO",
+        "hash": 464687292,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "TORNADO2",
+        "hash": 1531094468,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "TORNADO3",
+        "hash": 1762279763,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "TORNADO4",
+        "hash": -2033222435,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "TORNADO5",
+        "hash": -1797613329,
+        "category": "Muscle"
+    },
+    {
+        "model": "TORNADO6",
+        "hash": -1558399629,
+        "category": "Muscle"
+    },
+    {
+        "model": "TORO",
+        "hash": 1070967343,
+        "category": "Boat"
+    },
+    {
+        "model": "TORO2",
+        "hash": 908897389,
+        "category": "Boat"
+    },
+    {
+        "model": "TOROS",
+        "hash": -1168952148,
+        "category": "SUV"
+    },
+    {
+        "model": "TOURBUS",
+        "hash": 1941029835,
+        "category": "Service"
+    },
+    {
+        "model": "TOWTRUCK",
+        "hash": -1323100960,
+        "category": "Truck"
+    },
+    {
+        "model": "TOWTRUCK2",
+        "hash": -442313018,
+        "category": "Truck"
+    },
+    {
+        "model": "TR2",
+        "hash": 2078290630,
+        "category": "Trailer"
+    },
+    {
+        "model": "TR3",
+        "hash": 1784254509,
+        "category": "Trailer"
+    },
+    {
+        "model": "TR4",
+        "hash": 2091594960,
+        "category": "Trailer"
+    },
+    {
+        "model": "TRACTOR",
+        "hash": 1641462412,
+        "category": "Service"
+    },
+    {
+        "model": "TRACTOR2",
+        "hash": -2076478498,
+        "category": "Service"
+    },
+    {
+        "model": "TRACTOR3",
+        "hash": 1445631933,
+        "category": "Service"
+    },
+    {
+        "model": "TRAILERLARGE",
+        "hash": 1502869817,
+        "category": "Utility"
+    },
+    {
+        "model": "TRAILERLOGS",
+        "hash": 2016027501,
+        "category": "Trailer"
+    },
+    {
+        "model": "TRAILERS",
+        "hash": -877478386,
+        "category": "Trailer"
+    },
+    {
+        "model": "TRAILERS2",
+        "hash": -1579533167,
+        "category": "Trailer"
+    },
+    {
+        "model": "TRAILERS3",
+        "hash": -2058878099,
+        "category": "Trailer"
+    },
+    {
+        "model": "TRAILERS4",
+        "hash": -1100548694,
+        "category": "Utility"
+    },
+    {
+        "model": "TRAILERSMALL",
+        "hash": 712162987,
+        "category": "Trailer"
+    },
+    {
+        "model": "TRAILERSMALL2",
+        "hash": -1881846085,
+        "category": "Military"
+    },
+    {
+        "model": "TRASH",
+        "hash": 1917016601,
+        "category": "Service"
+    },
+    {
+        "model": "TRASH2",
+        "hash": -1255698084,
+        "category": "Service"
+    },
+    {
+        "model": "TRFLAT",
+        "hash": -1352468814,
+        "category": "Trailer"
+    },
+    {
+        "model": "TRIBIKE",
+        "hash": 1127861609,
+        "category": "Bicycle"
+    },
+    {
+        "model": "TRIBIKE2",
+        "hash": -1233807380,
+        "category": "Bicycle"
+    },
+    {
+        "model": "TRIBIKE3",
+        "hash": -400295096,
+        "category": "Bicycle"
+    },
+    {
+        "model": "TROPHYTRUCK",
+        "hash": 101905590,
+        "category": "Offroad"
+    },
+    {
+        "model": "TROPHYTRUCK2",
+        "hash": -663299102,
+        "category": "Offroad"
+    },
+    {
+        "model": "TROPIC",
+        "hash": 290013743,
+        "category": "Boat"
+    },
+    {
+        "model": "TROPIC2",
+        "hash": 1448677353,
+        "category": "Boat"
+    },
+    {
+        "model": "TROPOS",
+        "hash": 1887331236,
+        "category": "Sport"
+    },
+    {
+        "model": "TUG",
+        "hash": -2100640717,
+        "category": "Boat"
+    },
+    {
+        "model": "TULA",
+        "hash": 1043222410,
+        "category": "Plane"
+    },
+    {
+        "model": "TULIP",
+        "hash": 1456744817,
+        "category": "Muscle"
+    },
+    {
+        "model": "TURISMO2",
+        "hash": -982130927,
+        "category": "Super"
+    },
+    {
+        "model": "TURISMOR",
+        "hash": 408192225,
+        "category": "Super"
+    },
+    {
+        "model": "TVTRAILER",
+        "hash": -1770643266,
+        "category": "Trailer"
+    },
+    {
+        "model": "TYRANT",
+        "hash": -376434238,
+        "category": "Super"
+    },
+    {
+        "model": "TYRUS",
+        "hash": 2067820283,
+        "category": "Super"
+    },
+    {
+        "model": "UTILLITRUCK",
+        "hash": 516990260,
+        "category": "Service"
+    },
+    {
+        "model": "UTILLITRUCK2",
+        "hash": 887537515,
+        "category": "Service"
+    },
+    {
+        "model": "UTILLITRUCK3",
+        "hash": 2132890591,
+        "category": "Service"
+    },
+    {
+        "model": "VACCA",
+        "hash": 338562499,
+        "category": "Super"
+    },
+    {
+        "model": "VADER",
+        "hash": -140902153,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "VAGNER",
+        "hash": 1939284556,
+        "category": "Super"
+    },
+    {
+        "model": "VALKYRIE",
+        "hash": -1600252419,
+        "category": "Helicopter"
+    },
+    {
+        "model": "VALKYRIE2",
+        "hash": 1543134283,
+        "category": "Helicopter"
+    },
+    {
+        "model": "VAMOS",
+        "hash": -49115651,
+        "category": "Muscle"
+    },
+    {
+        "model": "VELUM",
+        "hash": -1673356438,
+        "category": "Plane"
+    },
+    {
+        "model": "VELUM2",
+        "hash": 1077420264,
+        "category": "Plane"
+    },
+    {
+        "model": "VERLIERER2",
+        "hash": 1102544804,
+        "category": "Sport"
+    },
+    {
+        "model": "VESTRA",
+        "hash": 1341619767,
+        "category": "Plane"
+    },
+    {
+        "model": "VIGERO",
+        "hash": -825837129,
+        "category": "Muscle"
+    },
+    {
+        "model": "VIGILANTE",
+        "hash": -1242608589,
+        "category": "Military"
+    },
+    {
+        "model": "VINDICATOR",
+        "hash": -1353081087,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "VIRGO",
+        "hash": -498054846,
+        "category": "Muscle"
+    },
+    {
+        "model": "VIRGO2",
+        "hash": -899509638,
+        "category": "Muscle"
+    },
+    {
+        "model": "VIRGO3",
+        "hash": 16646064,
+        "category": "Muscle"
+    },
+    {
+        "model": "VISERIS",
+        "hash": -391595372,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "VISIONE",
+        "hash": -998177792,
+        "category": "Super"
+    },
+    {
+        "model": "VOLATOL",
+        "hash": 447548909,
+        "category": "Plane"
+    },
+    {
+        "model": "VOLATUS",
+        "hash": -1845487887,
+        "category": "Helicopter"
+    },
+    {
+        "model": "VOLTIC",
+        "hash": -1622444098,
+        "category": "Super"
+    },
+    {
+        "model": "VOLTIC2",
+        "hash": 989294410,
+        "category": "Super"
+    },
+    {
+        "model": "VOODOO",
+        "hash": 2006667053,
+        "category": "Muscle"
+    },
+    {
+        "model": "VOODOO2",
+        "hash": 523724515,
+        "category": "Muscle"
+    },
+    {
+        "model": "VORTEX",
+        "hash": -609625092,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "WARRENER",
+        "hash": 1373123368,
+        "category": "Sedan"
+    },
+    {
+        "model": "WASHINGTON",
+        "hash": 1777363799,
+        "category": "Sedan"
+    },
+    {
+        "model": "WASTELANDER",
+        "hash": -1912017790,
+        "category": "Super"
+    },
+    {
+        "model": "WINDSOR",
+        "hash": 1581459400,
+        "category": "Coupe"
+    },
+    {
+        "model": "WINDSOR2",
+        "hash": -1930048799,
+        "category": "Coupe"
+    },
+    {
+        "model": "WOLFSBANE",
+        "hash": -618617997,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "XA21",
+        "hash": 917809321,
+        "category": "Super"
+    },
+    {
+        "model": "XLS",
+        "hash": 1203490606,
+        "category": "SUV"
+    },
+    {
+        "model": "XLS2",
+        "hash": -432008408,
+        "category": "SUV"
+    },
+    {
+        "model": "YOSEMITE",
+        "hash": 1871995513,
+        "category": "Muscle"
+    },
+    {
+        "model": "YOUGA",
+        "hash": 65402552,
+        "category": "Van"
+    },
+    {
+        "model": "YOUGA2",
+        "hash": 1026149675,
+        "category": "Van"
+    },
+    {
+        "model": "Z190",
+        "hash": 838982985,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "ZENTORNO",
+        "hash": -1403128555,
+        "category": "Super"
+    },
+    {
+        "model": "ZION",
+        "hash": -1122289213,
+        "category": "Coupe"
+    },
+    {
+        "model": "ZION2",
+        "hash": -1193103848,
+        "category": "Coupe"
+    },
+    {
+        "model": "ZION3",
+        "hash": 1862507111,
+        "category": "SportsClassic"
+    },
+    {
+        "model": "ZOMBIEA",
+        "hash": -1009268949,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "ZOMBIEB",
+        "hash": -570033273,
+        "category": "Motorcycle"
+    },
+    {
+        "model": "ZORRUSSO",
+        "hash": -682108547,
+        "category": "Super"
+    },
+    {
+        "model": "ZR380",
+        "hash": 540101442,
+        "category": "Sport"
+    },
+    {
+        "model": "ZR3802",
+        "hash": -1106120762,
+        "category": "Sport"
+    },
+    {
+        "model": "ZR3803",
+        "hash": -1478704292,
+        "category": "Sport"
+    },
+    {
+        "model": "ZTYPE",
+        "hash": 758895617,
+        "category": "SportsClassic"
+    }
+]
